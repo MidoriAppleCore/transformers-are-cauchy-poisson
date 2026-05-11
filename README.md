@@ -10,4 +10,6 @@ from what i understand. the lean only proves the 'single particle universe' vers
 
 Basically, you can lift out into cauchy-kernel then start designing attention kernels with other constraints than the constraint to softmax.
 
+I think this lets you do manifold programming, like, if you wanted to model the english language in c++ with knowledge, you would be forced to have giant lists/matrices of floats, in a way, then is AI how you derive those floats? would we feed attention kernal outputs into inputs in a node chart, with those being of groups that have some relation to how you would solve some problem whilst programming?
+
 This project is released under the [MIT License](LICENSE).
